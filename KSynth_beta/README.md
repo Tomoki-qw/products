@@ -29,6 +29,6 @@ https://steinbergmedia.github.io/vst3_dev_portal/pages/Tutorials/Using+cmake+for
 - VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp
 
 ### 開発環境
-
+- windows 10 home
 - visual studio 2019 community
 - VST3 SDK 3.7.9
