@@ -24,6 +24,10 @@
 
 https://steinbergmedia.github.io/vst3_dev_portal/pages/Tutorials/Using+cmake+for+building+plug-ins.html
 
+※**ビルドの際、SDKのうち以下ファイルを本プログラムのソースコードと同ディレクトリに配置する必要あり。**
+
+- VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp
+
 ### 開発環境
 
 - visual studio 2019 community
