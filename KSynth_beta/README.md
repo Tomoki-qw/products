@@ -16,4 +16,4 @@
 
 ### 実行方法
 
-コンパイル済みファイル(poly.vst)をDAW等vst hostで読み込めば、KSynthとして使用可能。
+ビルド済みファイル(poly.vst)をDAW等vst hostで読み込めば、KSynthとして使用可能。
