@@ -20,7 +20,7 @@
 
 ### 実行方法
 
-ビルド済みファイルはライセンスの関係上含めることができないため、以下に従ってビルドを行う。後述の開発環境にて動作確認済み。
+ビルド済みファイルはライセンスの関係上含めることができないため、以下に従ってビルドを行う。後述の開発環境にてビルド成功確認済み。
 
 https://steinbergmedia.github.io/vst3_dev_portal/pages/Tutorials/Using+cmake+for+building+plug-ins.html
 
