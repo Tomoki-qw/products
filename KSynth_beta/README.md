@@ -4,7 +4,7 @@
 
 ## 概要
 
-加算合成方式とFM合成方式両方を搭載したポリフォニックシンセサイザー。GUIは現在実装途中。cubase 10 pro, ableton live 11 Suiteにて動作確認済み。
+加算合成方式とFM合成方式両方を搭載したポリフォニックシンセサイザー。**GUIは現在実装途中。**cubase 10 pro, ableton live 11 Suiteにて動作確認済み。
 
 ## 詳細
 
