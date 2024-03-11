@@ -1,0 +1,19 @@
+#include <windows.h>
+#include <commctrl.h>
+#include <richedit.h>
+
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+
+// GUI用イメージ
+background.png   PNG   ".\\img\\background.png"
+knob.png         PNG   ".\\img\\knob.png"
+knob_handle.png  PNG   ".\\img\\knob_handle.png"
+knob_transparent.png         PNG   ".\\img\\knob_transparent.png"
+knob_handle_transparent.png  PNG   ".\\img\\knob_handle_transparent.png"
+slider.png         PNG   ".\\img\\slider.png"
+slider_handle.png  PNG   ".\\img\\slider_handle.png"
+slider_h.png         PNG   ".\\img\\slider_h.png"
+slider_handle_h.png         PNG   ".\\img\\slider_handle_h.png"
+fm_mode.png         PNG   ".\\img\\fm_mode.png"
+sustain.png         PNG   ".\\img\\sustain.png"
+normal_switch.png         PNG   ".\\img\\normal_switch.png"
